@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-<img src="assets/images/rasm.png.png" width="350" title="hover text">
+<img src="assets/images/rasm.png" width="350" title="hover text">
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
