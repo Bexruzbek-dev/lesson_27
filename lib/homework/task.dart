@@ -93,7 +93,7 @@ class Font extends StatelessWidget {
                             fontSize: 12,
                             fontWeight: FontWeight.w600,
                           ),
-                        ),
+                        ), 
                         const SizedBox(
                           width: 4,
                         ),
